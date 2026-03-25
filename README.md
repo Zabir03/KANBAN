@@ -12,7 +12,7 @@ A simple and interactive **Kanban Board Web Application** to manage tasks effici
 
 ## 🚀 Live Demo
 
-👉 https://your-username.github.io/kanban-task-app/
+👉 https://zabir03.github.io/KANBAN/
 
 ---
 
